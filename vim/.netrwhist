@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/a294952/package-repositories/dfp-gitops-package-istio/.git/logs/refs'
+let g:netrw_dirhist_2='/Users/a294952/package-repositories/dfp-gitops-package-istio/.git/logs/refs/remotes'
+let g:netrw_dirhist_3='/Users/a294952/package-repositories/dfp-gitops-package-istio/.git/logs/refs'
+let g:netrw_dirhist_4='/Users/a294952/package-repositories/dfp-gitops-package-istio/.git/logs/refs/heads'
+let g:netrw_dirhist_5='/Users/a294952/package-repositories/dfp-gitops-package-istio/.git/logs/refs/heads/sl'
+let g:netrw_dirhist_6='/Users/a294952/test'
